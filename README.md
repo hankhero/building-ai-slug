@@ -3,7 +3,7 @@ created by Reaktor Innovations and University of Helsinki.
 Copy the template, paste it to your GitHub README and edit! -->
 
 # Building-ai-slug
-Building AI course excercise, slug detector.
+Building AI course exercise, slug detector.
 
 Final project for the Building AI course
 
